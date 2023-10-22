@@ -20,3 +20,8 @@
     ```
    
 3. 打开浏览器访问 localhost:5000 即可！
+
+### Comment
+
+- 모바일용 게임
+- [제작 가이드](https://mp.weixin.qq.com/s/H9VR1MWn-9bKSC_1l_MkJw)
